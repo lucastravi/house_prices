@@ -1,4 +1,4 @@
-# House Prices Prediction
+# House Prices Prediction - Regression
 
 This project is a case study of my Machine Learning for Data Science in Federal University of Santa Maria - Brazil.
 
